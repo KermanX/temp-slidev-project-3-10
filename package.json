@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -C ./slides run dev",
+    "build": "pnpm -C ./slides run build",
+    "export": "pnpm -C ./slides run export"
+  }
+}
